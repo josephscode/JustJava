@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">காபி மட்டுமே</string>
+  <string name="customer_name_hint">பெயர்</string>
+  <string name="toppings_title">கூடுதலான விருப்பங்கள்</string>
+  <string name="cb_whipped_cream">விப்டு கிரீம்</string>
+  <string name="cb_chocolate">சாக்லேட்டு</string>
+  <string name="tv_quantity_title">எண்ணிக்கை</string>
+  <string name="btn_order">விண்ணப்பிக்க</string>
+  <string name="tv_order_summary_title">விண்ணப்பத்தின் விபரங்கள்</string>
+  <string name="err_max_coffee">கடைல இருக்க காபி எல்லாம் ஒனக்கே வேணுமா?</string>
+  <string name="err_min_coffee">ஒரு கப்பாவது குடிக்கனும்</string>
+  <string name="order_summary_subject"><xliff:g example="Joseph" id="customerName">%s</xliff:g>ிற்காக காபி விண்ணப்பம்</string>
+  <string name="order_summary_name">வாடிக்கையாளர்: <xliff:g example="Joseph" id="customerName">%s</xliff:g></string>
+  <string name="order_summary_whipped_cream">விப்டு கிரீம் சேர்க்க?</string>
+  <string name="order_summary_chocolate">சாக்லேட்டு சேர்க்க?</string>
+  <string name="order_summary_quantity">எண்ணிக்கை: <xliff:g example="10" id="quantity">%d</xliff:g></string>
+  <string name="order_summary_total">மொத்தம்: <xliff:g example="$10" id="price">%s</xliff:g></string>
+  <string name="order_summary_thankyou">நன்றி!</string>
+  <string name="yes">ஆமாம்</string>
+  <string name="no">இல்லை</string>
+</resources>

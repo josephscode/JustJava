@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Just Java</string>
+  <string name="customer_name_hint">Name</string>
+  <string name="toppings_title">Toppings</string>
+  <string name="cb_whipped_cream">Whipped cream</string>
+  <string name="cb_chocolate">Chocolate</string>
+  <string name="tv_quantity_title">Quantity</string>
+  <string name="tv_order_summary_title">Order Summary</string>
+  <string name="btn_order">Order</string>
+  <string name="err_max_coffee">Dude! Don\'t drink up all the coffee in this place!!</string>
+  <string name="err_min_coffee">Get at least 1 cup of coffee dammit!!</string>
+  <string name="order_summary_subject">Just Java order for <xliff:g example="Joseph" id="customerName">%s</xliff:g></string>
+  <string name="order_summary_name">Name: <xliff:g example="Joseph" id="customerName">%s</xliff:g></string>
+  <string name="order_summary_whipped_cream">Add whipped cream? </string>
+  <string name="order_summary_chocolate">Add chocolate? </string>
+  <string name="order_summary_quantity">Quantity: <xliff:g example="10" id="quantity">%d</xliff:g></string>
+  <string name="order_summary_total">Total: <xliff:g example="$10" id="price">%s</xliff:g></string>
+  <string name="order_summary_thankyou">Thank you!</string>
+  <string name="yes">true</string>
+  <string name="no">false</string>
+</resources>
